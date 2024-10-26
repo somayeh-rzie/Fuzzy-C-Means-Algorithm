@@ -24,7 +24,7 @@ We change c and m in order to minimize Cost function and find optimized c and m<
 ### Prerequisites
 - put '_train-images-idx3-ubyte_, _train-labels-idx1-ubyte_, _t10k-images-idx3-ubyte_, _t10k-labels-idx1-ubyte_' in your project path
 - matplotlib <br />
-    `pip install pip install matplotlib`
+    `pip install matplotlib`
 - math <br />
     `pip install python-math`
 - random <br />
